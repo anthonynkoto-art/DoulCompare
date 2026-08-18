@@ -1,0 +1,32 @@
+[
+  {
+    "id_enseigne":"ENS-01",
+    "nom":"Santa Lucia Bonapriso",
+    "quartier":"Bonapriso",
+    "ville":"Douala"
+  },
+  {
+    "id_enseigne":"ENS-02",
+    "nom":"Mahima Akwa",
+    "quartier":"Akwa",
+    "ville":"Douala"
+  },
+  {
+    "id_enseigne":"ENS-03",
+    "nom":"Diamant Bonamoussadi",
+    "quartier":"Bonamoussadi",
+    "ville":"Douala"
+  },
+  {
+    "id_enseigne":"ENS-04",
+    "nom":"Score Market Deido",
+    "quartier":"Deido",
+    "ville":"Douala"
+  },
+  {
+    "id_enseigne":"ENS-05",
+    "nom":"Cash & Carry Bali",
+    "quartier":"Bali",
+    "ville":"Douala"
+  }
+]
